@@ -1,0 +1,11 @@
+class test
+{
+  public static vod main(String []args)
+  {
+    int n1=22;
+    long n2=4536567;
+    double n3=45.65;
+    n3=n1+n2+n3;
+    System.out.println(n3);
+  }
+}
